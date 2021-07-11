@@ -7,4 +7,6 @@ class Player
     @money = 100
   end
   
+  def money
+  end
 end
