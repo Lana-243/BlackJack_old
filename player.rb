@@ -9,4 +9,6 @@ class Player
   
   def money
   end
+  def tt
+  end
 end

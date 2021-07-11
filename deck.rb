@@ -15,4 +15,7 @@ class Deck
   def take_card
     @cards.shift
   end
+  
+  def tt
+  end
 end

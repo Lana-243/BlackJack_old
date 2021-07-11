@@ -5,5 +5,6 @@ class Player
   def initialize
     @money = 100
   end
-  
+  def aa
+end
 end
